@@ -6,3 +6,10 @@
 
 - Cloning a repository
 `git clone repository_url`
+
+```
+bash
+
+cd repo && mkdir readme
+
+```
